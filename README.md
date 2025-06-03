@@ -108,6 +108,40 @@ Reajuste ganho: 140.00
 
 Em percentual: 7 %
 
+### Ажил 4-ийн үр дүн:
 
+<p align="center">
+  <img src="image/zurag2.4.png" alt="Ajil2.4" width="full"/>
+</p>
+
+---
+
+VSCode-ийн гаралт:
+
+Truck Model: Tatra 810 4x4
+
+Fuel Efficiency: 8.075659532105526 mpg
+
+Distance Traveled: 65.50975012444003 miles
+
+Max Speed: 80.0 mph
+
+
+Car Model: Virtus
+
+Fuel Efficiency: 2.355 mpg
+
+Distance Traveled: 14.419665 miles
+
+Max Speed: 120.0 mph
+
+
+Motorcycle Model: Warrior200
+
+Fuel Efficiency: 2.1 mpg
+
+Distance Traveled: 4.41 miles
+
+Max Speed: 80.0 mph
 
 ✅ **ТАЙЛАН ДУУСАВ!**
