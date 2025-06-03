@@ -1,5 +1,3 @@
-package Dasgal2;
-
 public class ParkingSystem {
     private int big;
     private int medium;
